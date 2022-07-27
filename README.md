@@ -1,5 +1,5 @@
 # Jumia2WooCommerce
-Move your products from Jumia to WooCommerce
+Move your products from a Jumia store to another
 
 ## Installation
 * Clone the repo.
