@@ -7,6 +7,5 @@ Move your products from a Jumia store to another
  ```
  pip install -r requirements.txt
  ```
- * Go to `Jumia Seller Center`>`Manage Users` and copy `API Key`.
- * Go to `WoorCommerce`>`Settings`>`Advanced`>`API REST`>`Add Key` and copy `Consumer Key` and `Consumer Secret`.
+ * Go to `Jumia Seller Center`>`Manage Users` and copy `API Key` from both stores (Source / Destination).
  * Run the script.
